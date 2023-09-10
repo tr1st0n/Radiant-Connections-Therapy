@@ -10,3 +10,10 @@ article,aside,details,figcaption,figure,footer,header,hgroup,nav,section,summary
   line-height: 30px;
 }
 
+p, li {
+  font-family: 'Poiret One', cursive;
+}
+
+h1, h2, h3, h4 {
+  font-family: 'EB Garamond', serif;
+}
