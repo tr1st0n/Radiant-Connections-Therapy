@@ -1,0 +1,80 @@
+
+
+nav ul {
+   display: flex;
+   justify-content: space-around;
+   align-items: center;
+   list-style: none;
+   margin: 0;
+   padding: 20px;
+}
+
+nav {
+    background-color: rgb(91, 68, 118);
+}
+
+nav li {
+    color: white;
+    font-weight: bold;
+    
+}
+
+.title-name {
+    font-size: 30px;
+}
+
+.landing-flex {
+    display: flex;
+}
+
+.main-header, .intro {
+    width: 50%;
+    
+}
+.main-header {
+    background-image: url(../assets/counselling.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    display: flex;
+    margin: 0;
+    border-right: 1px solid black;
+}
+
+.main-header p {
+    color: white;
+    font-weight: bold;
+}
+
+.home-flex {
+    display: flex;
+}
+
+.benefits, .help {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    text-align: center;
+    width: 50%;
+    height: 50vh;
+}
+
+.action-1 {
+    text-align: center;
+    background-color: rgb(91, 68, 118);
+    padding: 20px;
+}
+
+.action-1 p, .action-1 h2 {
+    color: white;
+    margin: 0;
+}
+
+
+
+.intro {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding: 0 20px;
+}

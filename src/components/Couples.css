@@ -1,0 +1,76 @@
+#couples {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+       
+}
+
+.connection {
+    background-color: rgb(91, 68, 118);
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    margin: 0;
+    margin-bottom: 0;
+}
+
+.connection p {
+    padding: 0 20px;
+    font-weight: bold;
+}
+
+.welcome {
+    padding: 30px 30px 0 30px;
+    font-weight: bold;
+}
+
+.couple-flex {
+    display: flex;   
+    flex-wrap: wrap; 
+}
+
+
+.focus {
+    width: 50%;
+    padding: 20px;
+}
+
+.focus {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    order: 2;
+}
+
+.why-us {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    padding: 20px;
+    order: 4;
+    border-top: 1px solid black;
+}
+
+.action-2 {
+    background-color: rgb(91, 68, 118);
+    color: white;
+    padding: 10px;
+}
+
+.couple-bg {
+    display: flex;
+    background-image: url(../assets/couples.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 50%;
+    order: 1;
+    justify-content: center;
+    color: rgb(253, 235, 252);
+}
+
+
+
