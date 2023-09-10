@@ -36,7 +36,7 @@ const Individuals = () => {
                     </ul>
             </div>
             <div className="action3">
-                <h2>Call to Action</h2>
+                
                 <p>Ready to embrace personal growth and experience positive change? Take the first step towards healing and self-discovery by scheduling a consultation with us. Click the button below to get started.</p>
                 <p>Thank you for considering Radiant Connections Therapy as your partner in personal growth and emotional well-being. We are dedicated to helping you overcome challenges, increase self-awareness, and discover your inner resilience. Let's embark on a transformative journey towards a more fulfilling and thriving life together.</p>
             </div>

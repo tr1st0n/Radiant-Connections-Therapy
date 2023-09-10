@@ -1,16 +1,17 @@
 import "./Home.css"
+import About from "./About";
 
+import { Link } from "react-router-dom";
 const Home = () => {
     return (
-        <div className="landing">
+        <div id="landing">
         <nav>
             <ul>
-                <li className="title-name">Radiant Connections</li>
-                
-                <li>About</li>
-                <li>Individual Counselling</li>
-                <li>Couples Counselling</li>
-                <li>Contact</li>
+                <Link to="#home"><li className="title-name">Radiant Connections</li></Link>                
+                <Link to="#about"><li>About</li></Link>
+                <Link to="#solo"><li>Individual Counselling</li></Link>
+                <Link to="#couples"><li>Couples Counselling</li></Link>
+                <Link to="#contact"><li>Contact</li></Link>                
             </ul>
         </nav>
         <div className="landing-flex">
@@ -27,7 +28,7 @@ const Home = () => {
             </div>
         </div>
         <div className="action-1">
-            <h2>Call-to-Action</h2>
+            
             <p>Ready to take the first step towards a happier and more fulfilling life? Explore our Couples Page and Individuals Page to learn more about how we can provide the personalized support you need. Click the buttons below to schedule a consultation and begin our journey together. </p>
             <br></br>
             <p>Thank you for considering Radiant Connections Therapy as your trusted partner in transformation and personal growth. Contact us now to schedule a consultation and let's embark on this transformative journey together. </p>  

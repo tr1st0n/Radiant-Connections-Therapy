@@ -37,7 +37,7 @@ const Couples = () => {
 
         </div>
         <div className="action-2">
-            <h2>Call to Action</h2>
+            
             <p>Ready to rebuild and revitalize your relationship? Take the first step towards lasting change and schedule a consultation with us. Click the button below to get started.</p>
             <p>Thank you for considering Radiant Connections Therapy as your trusted resource for couples therapy. We are dedicated to helping you overcome challenges, rebuild your bond, and create a relationship that thrives. Whether you're preparing for a strong marriage or navigating the complexities of divorce, we're here to provide the guidance and support you need. Together, we'll embark on a transformative journey towards lasting love and harmony. </p>
             </div>

@@ -16,7 +16,7 @@ const About = () => {
             <p>Your privacy and confidentiality are of the utmost importance to me. I maintain strict ethical standards and adhere to professional guidelines to ensure that your personal information remains confidential and secure. You can trust that our sessions will be conducted in a confidential and respectful manner. </p>
             <h2>Continued Learning</h2>
             <p>As a dedicated therapist, I am committed to continuous learning and staying updated on the latest developments in couples and relationship therapy. I regularly engage in professional development opportunities, including workshops and trainings, to enhance my skills and provide you with the most effective therapeutic techniques. </p>
-            <h2>Call-to-Action</h2>
+            
             <p>Ready to take the next step towards a healthier and more fulfilling relationship? Contact me today to schedule a consultation. I'm here to support you in your journey towards a happier and more connected partnership. </p>
         </div>    
         </div>

@@ -14,9 +14,9 @@ function App() {
     <>
     <Home/>
     <About/>
-    <Couples/>
-    <Individuals/>
     <Contact/>
+    <Couples/>
+    <Individuals/>  
     </>
   )
 }

@@ -12,7 +12,7 @@ const Contact = () => {
                 <div className="info-form">
                     <div className="info">
                         <ul>
-                            <li>Phone: 6475239330</li>
+                            <li>Phone: +1 (647)-523-9330</li>
                             <li>Email: reception@radiantconnectionstherapy.com</li>
                         </ul>    
                     </div>
@@ -23,7 +23,7 @@ const Contact = () => {
                     
                 </div>
                 <div className="action3"> 
-                        <h2>Call to Action</h2>
+                        
                         <p>Take the first step towards healing and personal growth. Reach out to us today to schedule your consultation and start your transformative journey.</p>
                         <p>Thank you for considering Radiant Connections Therapy. We look forward to connecting with you and providing the support you need on your path to emotional well-being and fulfillment. Remember, you don't have to navigate life's challenges alone – we're here to help you flourish and thrive.</p>
                     </div> 

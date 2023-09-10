@@ -17,3 +17,7 @@ p, li {
 h1, h2, h3, h4 {
   font-family: 'EB Garamond', serif;
 }
+
+a {
+  text-decoration: none;
+}
