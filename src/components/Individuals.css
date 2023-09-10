@@ -1,0 +1,63 @@
+.empowering {
+    background-color: rgb(91, 68, 118);
+    padding: 20px;
+}
+
+.empowering h1 {
+    margin: 0;
+}
+
+.empowering p {
+    margin-bottom: 0;
+}
+.empowering h1, .empowering h2, .empowering p {
+    text-align: center;
+    color: white;
+}
+
+.solo-flex {
+    display: flex;
+}
+
+.focus2 {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    padding: 20px;
+    text-align: center;
+}
+
+.solo-bg {
+    background-image: url(../assets/solo.png);
+    background-size: cover;
+    background-repeat: 0;
+    background-position: center;
+    width: 50%;
+    color: white;
+    border-left: 1px solid black;
+}
+
+.why-us2 {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    padding: 20px;
+    order: 4;
+    border-top: 1px solid black;
+    text-align: center;
+    background-image: url(../assets/stacked-waves-haikei.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding: 20px;
+    color: white;
+}
+
+.why-us2 li {
+    list-style-type: none;
+}
+
+.action3 {
+    text-align: center;
+    padding: 10px;
+}

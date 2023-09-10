@@ -52,12 +52,22 @@
     padding: 20px;
     order: 4;
     border-top: 1px solid black;
+    text-align: center;
+    background-image: url(../assets/stacked-waves-haikei.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding: 20px;
+    color: white;
+}
+
+.why-us li {
+    list-style-type: none;
 }
 
 .action-2 {
-    background-color: rgb(91, 68, 118);
-    color: white;
-    padding: 10px;
+    text-align: center;
+
 }
 
 .couple-bg {

@@ -6,7 +6,7 @@ const Home = () => {
         <nav>
             <ul>
                 <li className="title-name">Radiant Connections</li>
-                <li>Home</li>
+                
                 <li>About</li>
                 <li>Individual Counselling</li>
                 <li>Couples Counselling</li>
